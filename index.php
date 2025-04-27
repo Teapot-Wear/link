@@ -37,14 +37,15 @@
     <div class="container">
         <div class="row my-3 justify-content-center">
 
+            <div class="col-12 text-center mb-2"><img src="./assets/logo-branco.png" alt="Teapot"/></div>
             <div class="col-12 text-center mb-2"><strong>Vista o Rock!</strong></div>
             <div class="col-12 text-center mb-4">Todos os links aqui 👇</div>
             <div class="col-12 text-center mb-4">
-                <a href="https://instagram.com/teapot.wear" class="btn btn-dark me-2">
-                    <i class="fab fa-instagram"></i> Instagram
+                <a href="https://instagram.com/teapot.wear" class="btn btn-link me-2">
+                    <i class="fab fa-instagram"></i>
                 </a> 
-                <a href="https://api.whatsapp.com/send?phone=5511974605936" class="btn btn-success">
-                    <i class="fab fa-whatsapp"></i> WhatsApp
+                <a href="https://api.whatsapp.com/send?phone=5511974605936" class="btn btn-link">
+                    <i class="fab fa-whatsapp"></i>
                 </a> 
             </div>
 
@@ -53,13 +54,11 @@
         <div class="row text-center">
 
             <div class="col-12 mb-2">
-                <a href="https://teapot.com.br/" class="btn btn-primary w-75">Loja Online</a>
-            </div>
-            <div class="col-12 mb-2">
-                <a href="https://wa.me/5511974605936" class="btn btn-success w-75">WhatsApp</a>
-            </div>
-            <div class="col-12 mb-2">
-                <a href="https://chat.whatsapp.com/EcObKlC3vtP7C5bSKRIGTZ" class="btn btn-warning w-75">Grupo VIP</a>
+                <div class="d-grid gap-2">
+                    <a href="https://teapot.com.br/" class="btn btn-lg btn-secondary text-uppercase">Loja Online</a>
+                    <a href="https://wa.me/5511974605936" class="btn btn-lg btn-secondary text-uppercase">WhatsApp</a>
+                    <a href="https://chat.whatsapp.com/EcObKlC3vtP7C5bSKRIGTZ" class="btn btn-lg btn-secondary text-uppercase">Grupo VIP</a>
+                </div>
             </div>
 
         </div>
