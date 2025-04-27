@@ -37,14 +37,14 @@
     <div class="container">
         <div class="row my-3 justify-content-center">
 
-            <div class="col-12 text-center mb-2"><img src="./assets/logo-branco.png" alt="Teapot"/></div>
+            <div class="col-12 text-center mb-4"><img class="img-fluid"  src="./assets/logo-branco.png" alt="Teapot"/></div>
             <div class="col-12 text-center mb-2"><strong>Vista o Rock!</strong></div>
             <div class="col-12 text-center mb-4">Todos os links aqui 👇</div>
-            <div class="col-12 text-center mb-4">
-                <a href="https://instagram.com/teapot.wear" class="btn btn-link me-2">
+            <div class="col-12 text-center mb-4 d-flex justify-content-center gap-3">
+                <a href="https://instagram.com/teapot.wear">
                     <i class="fab fa-instagram"></i>
                 </a> 
-                <a href="https://api.whatsapp.com/send?phone=5511974605936" class="btn btn-link">
+                <a href="https://api.whatsapp.com/send?phone=5511974605936">
                     <i class="fab fa-whatsapp"></i>
                 </a> 
             </div>

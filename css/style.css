@@ -9,27 +9,8 @@ body {
     padding: 2rem;
 }
 
-.logo img {
-    width: 150px;
-    margin-bottom: 20px;
+.btn-secondary {
+    background-color: #1E1E1E !important;
 }
 
-.link-button {
-    margin-bottom: 1rem;
-    width: 100%;
-    max-width: 400px;
-    background: #1e1e1e;
-    border: none;
-    padding: 15px;
-    border-radius: 10px;
-    color: #fff;
-    font-size: 18px;
-    text-decoration: none;
-    text-align: center;
-    display: inline-block;
-    transition: background 0.3s;
-}
 
-.link-button:hover {
-    background: #333;
-}
