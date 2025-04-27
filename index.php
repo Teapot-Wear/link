@@ -11,6 +11,9 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- FontAwesome CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+
     <!-- Custom CSS -->
     <link href="css/style.css" rel="stylesheet">
 
@@ -31,17 +34,36 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager -->
 
-    <div class="container text-center">
-        <div class="logo">
-            <img src="https://static.wixstatic.com/media/23b8aa_81b82cc0cf5d49f2ad7d394bd4df31a7~mv2.png" alt="Teapot Wear">
+    <div class="container">
+        <div class="row my-3 justify-content-center">
+
+            <div class="col-12 text-center mb-2"><strong>Vista o Rock!</strong></div>
+            <div class="col-12 text-center mb-4">Todos os links aqui 👇</div>
+            <div class="col-12 text-center mb-4">
+                <a href="https://instagram.com/teapot.wear" class="btn btn-dark me-2">
+                    <i class="fab fa-instagram"></i> Instagram
+                </a> 
+                <a href="https://api.whatsapp.com/send?phone=5511974605936" class="btn btn-success">
+                    <i class="fab fa-whatsapp"></i> WhatsApp
+                </a> 
+            </div>
+
         </div>
 
-        <div class="links">
-            <a href="https://www.teapotwear.com" class="link-button" target="_blank">Loja Oficial</a>
-            <a href="https://instagram.com/teapot.wear" class="link-button" target="_blank">Instagram</a>
-            <a href="https://www.tiktok.com/@teapot.wear" class="link-button" target="_blank">TikTok</a>
-            <a href="https://www.youtube.com/@teapotwear" class="link-button" target="_blank">YouTube</a>
+        <div class="row text-center">
+
+            <div class="col-12 mb-2">
+                <a href="https://teapot.com.br/" class="btn btn-primary w-75">Loja Online</a>
+            </div>
+            <div class="col-12 mb-2">
+                <a href="https://wa.me/5511974605936" class="btn btn-success w-75">WhatsApp</a>
+            </div>
+            <div class="col-12 mb-2">
+                <a href="https://chat.whatsapp.com/EcObKlC3vtP7C5bSKRIGTZ" class="btn btn-warning w-75">Grupo VIP</a>
+            </div>
+
         </div>
+
     </div>
 
     <!-- Bootstrap Bundle with Popper -->
