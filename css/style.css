@@ -7,10 +7,22 @@ body {
     flex-direction: column;
     justify-content: center;
     padding: 2rem;
+    font-size: 16px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ccc;
+    text-decoration: none;
 }
 
 .btn-secondary {
     background-color: #1E1E1E !important;
+    border-color: #1E1E1E !important;
 }
 
 

@@ -55,9 +55,9 @@
 
             <div class="col-12 mb-2">
                 <div class="d-grid gap-2">
-                    <a href="https://teapot.com.br/" class="btn btn-lg btn-secondary text-uppercase">Loja Online</a>
-                    <a href="https://wa.me/5511974605936" class="btn btn-lg btn-secondary text-uppercase">WhatsApp</a>
-                    <a href="https://chat.whatsapp.com/EcObKlC3vtP7C5bSKRIGTZ" class="btn btn-lg btn-secondary text-uppercase">Grupo VIP</a>
+                    <a href="https://teapot.com.br/" class="btn btn-lg btn-secondary">Loja Online</a>
+                    <a href="https://wa.me/5511974605936" class="btn btn-lg btn-secondary">WhatsApp</a>
+                    <a href="https://chat.whatsapp.com/EcObKlC3vtP7C5bSKRIGTZ" class="btn btn-lg btn-secondary">Grupo VIP</a>
                 </div>
             </div>
 
